@@ -1,0 +1,16 @@
+*********Print content on new page************
+
+content="your content"
+window.open.document.write(content)
+
+window.open('filepath/url','window-name','width=200,height=100')
+
+
+*********Search method************
+
+var name="huzaifa"
+var search="h"
+
+if(name.startsWith(search)){
+   console.log(name)
+}
